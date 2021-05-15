@@ -1,0 +1,16 @@
+<div class="example-container mat-elevation-z8">
+<mat-table  [dataSource]="dataSource">
+<ng-container matColumnDef="name">
+        <div *matHeaderCellDef> Category Name</div>
+        <div class="description-cell"
+        *matCellDef="let element; columns: displayedColumns" 
+        [routerLink]="['/RandomJoke/']" [queryParams]="{Category: element}"> {{element}} </div>
+    </ng-container> 
+
+    
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    
+    <mat-row *matRowDef="let row; columns: displayedColumns"></mat-row>
+    
+</mat-table>
+</div>
