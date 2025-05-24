@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
   <diagram name="Page-1" id="56ZiJDIpFZ2BXO375HWM">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzJeJ2zUqS6nEOSJtWt_-1" target="ZzJeJ2zUqS6nEOSJtWt_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-1" value="Frontend&lt;br&gt;.B2B, .Recon Manager. Cashup" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/business-and-education-1/512/272_webinar_forum_online_seminar_website-128.png;imageBackground=light-dark(#FFFFFF,#3333FF);" vertex="1" parent="1">
+          <mxGeometry x="40" y="82" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzJeJ2zUqS6nEOSJtWt_-2" target="ZzJeJ2zUqS6nEOSJtWt_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-2" value="Hub Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-3" value="is login successful?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzJeJ2zUqS6nEOSJtWt_-4" target="ZzJeJ2zUqS6nEOSJtWt_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-4" value="Authentication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.313;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZzJeJ2zUqS6nEOSJtWt_-4" target="ZzJeJ2zUqS6nEOSJtWt_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
