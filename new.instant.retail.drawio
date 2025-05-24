@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-17" value="Classifier" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/microservice.svg;" vertex="1" parent="1">
-          <mxGeometry x="560" y="370" width="82.2" height="60" as="geometry" />
+          <mxGeometry x="560" y="353" width="82.2" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-18" target="BXHCQ-Q0p_H47LMqQ2NH-17">
           <mxGeometry relative="1" as="geometry" />
@@ -90,8 +90,16 @@
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-24" value="b2b.file_parsed" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.queue;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="81.32" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-28" target="BXHCQ-Q0p_H47LMqQ2NH-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-28" target="BXHCQ-Q0p_H47LMqQ2NH-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.21999999999994" y="499" as="sourcePoint" />
+            <mxPoint x="399.9999999999999" y="666.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="400" />
+              <mxPoint x="550" y="460" />
+              <mxPoint x="601" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-28" value="records.classified" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.queue;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="358" width="81.32" height="49" as="geometry" />
@@ -103,20 +111,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-30" value="Process Engine" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/microservice.svg;" vertex="1" parent="1">
-          <mxGeometry x="370" y="510" width="82.2" height="60" as="geometry" />
+          <mxGeometry x="560" y="550" width="82.2" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.608;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-18" target="BXHCQ-Q0p_H47LMqQ2NH-30">
+        <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-18" target="BXHCQ-Q0p_H47LMqQ2NH-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="550" />
+              <mxPoint x="770" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-33" target="BXHCQ-Q0p_H47LMqQ2NH-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-33" target="BXHCQ-Q0p_H47LMqQ2NH-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-33" value="DLQ" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.queue;labelPosition=center;" vertex="1" parent="1">
-          <mxGeometry x="288.68" y="420" width="81.32" height="49" as="geometry" />
+          <mxGeometry x="370" y="450" width="81.32" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-34" target="BXHCQ-Q0p_H47LMqQ2NH-1">
           <mxGeometry relative="1" as="geometry" />
