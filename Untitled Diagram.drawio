@@ -192,7 +192,7 @@
         <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;strokeWidth=2;curved=0;" parent="1" source="ZzJeJ2zUqS6nEOSJtWt_-71" target="ZzJeJ2zUqS6nEOSJtWt_-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-71" value="Warehouse + Dropshipment files" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
+        <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-71" value="*" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
           <mxGeometry x="263" y="416.82" width="42.5" height="52.37" as="geometry" />
         </mxCell>
         <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;strokeWidth=2;curved=0;" parent="1" source="ZzJeJ2zUqS6nEOSJtWt_-72" target="ZzJeJ2zUqS6nEOSJtWt_-49" edge="1">
