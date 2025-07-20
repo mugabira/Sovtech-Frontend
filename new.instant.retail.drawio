@@ -51,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-12" value="b2b.file_uploaded" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.queue;labelPosition=center;" parent="1" vertex="1">
-          <mxGeometry x="370" y="170" width="81.32" height="49" as="geometry" />
+          <mxGeometry x="370" y="170" width="66.38" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-14" target="BXHCQ-Q0p_H47LMqQ2NH-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-24" value="b2b.file_parsed" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.queue;labelPosition=center;" parent="1" vertex="1">
-          <mxGeometry x="370" y="260" width="81.32" height="49" as="geometry" />
+          <mxGeometry x="370" y="260" width="66.38" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BXHCQ-Q0p_H47LMqQ2NH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" parent="1" source="BXHCQ-Q0p_H47LMqQ2NH-28" target="BXHCQ-Q0p_H47LMqQ2NH-30" edge="1">
           <mxGeometry relative="1" as="geometry">
