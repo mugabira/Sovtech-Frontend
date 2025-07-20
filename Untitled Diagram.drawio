@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.6">
   <diagram name="Page-1" id="56ZiJDIpFZ2BXO375HWM">
     <mxGraphModel dx="1042" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-71" value="Warehouse + Dropshipment files" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
-          <mxGeometry x="263" y="417.63" width="42.5" height="52.37" as="geometry" />
+          <mxGeometry x="263" y="416.82" width="42.5" height="52.37" as="geometry" />
         </mxCell>
         <mxCell id="ZzJeJ2zUqS6nEOSJtWt_-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;strokeWidth=2;curved=0;" parent="1" source="ZzJeJ2zUqS6nEOSJtWt_-72" target="ZzJeJ2zUqS6nEOSJtWt_-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
